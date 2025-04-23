@@ -1,0 +1,6 @@
+venv/
+.env
+*.exe
+__pycache__/
+*.pyc
+app-test.py
